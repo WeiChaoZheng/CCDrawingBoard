@@ -1,0 +1,26 @@
+PODS:
+  - MOBFoundation (1.3.1)
+  - ShareSDK3 (3.2.0):
+    - ShareSDK3/ShareSDK (= 3.2.0)
+  - ShareSDK3/ShareSDK (3.2.0)
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.2.0)
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (3.2.0)
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.2.0)
+  - ShareSDK3/ShareSDKUI (3.2.0)
+  - SMSSDK (2.0.0)
+
+DEPENDENCIES:
+  - MOBFoundation
+  - ShareSDK3
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - ShareSDK3/ShareSDKUI
+  - SMSSDK
+
+SPEC CHECKSUMS:
+  MOBFoundation: abbf5616d1d9f758db612cf8d57a72541d1345ef
+  ShareSDK3: 2987b2c38210299d8c3259fff65740f59691a688
+  SMSSDK: 3be0004bddcfdc86c305fc96e77d3a724eab1b18
+
+COCOAPODS: 0.39.0
